@@ -16,7 +16,7 @@ Once the webpage is open, the links in the navigation bar will quickly lead the 
 ## Credits
 
 A helpful resource while working on this project is an article from W3 Schools. It explained semantic elements and how/when to use some of the most popular ones.
-<a href="https://www.w3schools.com/html/html5_semantic_elements.asp"> 
+https://www.w3schools.com/html/html5_semantic_elements.asp 
 
 ## License
 
