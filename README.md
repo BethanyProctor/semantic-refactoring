@@ -10,7 +10,8 @@ N/A
 
 ## Usage
 
-Once the webpage is open, the links in the navigation bar will quickly lead the user to the corresponding section on the page with more information on that topic. 
+Once the webpage is open, the links in the navigation bar will quickly lead the user to the corresponding section on the page with more information on that topic.  
+
 ![image](https://github.com/BethanyProctor/semantic-refactoring/assets/160694396/11993dae-b209-48b3-ac47-3b90392ca850)
 
 
