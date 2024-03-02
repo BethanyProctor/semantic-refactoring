@@ -11,7 +11,7 @@ N/A
 ## Usage
 
 Once the webpage is open, the links in the navigation bar will quickly lead the user to the corresponding section on the page with more information on that topic. 
-<img src="01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png"/>
+https://git.bootcampcontent.com/University-of-Central-Florida/UCF-VIRT-FSF-PT-02-2024-U-LOLC/-/raw/main/01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png 
 
 ## Credits
 
